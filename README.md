@@ -13,6 +13,8 @@
 - **[Threat Hunting Scenario (FireFox Browser Usage)](https://github.com/SPANKYWOWWOW/threat-hunting-scenario-firefox)**
   
  ## 🚨 Incident Responce Simulation
+- **[Incident Responce Simulation using T1059 & T1086)](https://github.com/SPANKYWOWWOW/Incident-Response-Simulation/tree/main)**
+ 
 <h2> 🤳 Connect with me:</h2>
 
 
